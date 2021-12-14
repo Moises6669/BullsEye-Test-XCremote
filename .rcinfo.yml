@@ -1,0 +1,7 @@
+primary_repo: https://github.com/Moises6669/BullsEye-Test-XCremote.git
+
+cache_addresses:
+  - https://xcremotecacheserver.com
+
+custom_fingerprint_envs: 
+  - ARCHS
